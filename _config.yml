@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://mmclub.github.io
-title: 南京邮电大学移动互联网俱乐部
+url: http://luongkhanhit.github.io
+title: LuongKhanhit
 subtitle: 
-author: MMClub
+author: luongkhanh
 simple_search: http://google.com/search
 description:
 
@@ -94,7 +94,7 @@ disqus_short_name: mmclub-blog
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id: UA-47454479-1
+#google_analytics_tracking_id: 
 
 
 # Facebook Like
